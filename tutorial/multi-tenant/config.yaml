@@ -1,0 +1,2 @@
+parameters:
+  shard_count: 4
